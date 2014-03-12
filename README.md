@@ -1,7 +1,7 @@
 perl-contExtract
 ================
 
-  Perl-Contacts-Extractor
+  Extract e-mail account contacts
 
 
 WHAT IT DOES?
