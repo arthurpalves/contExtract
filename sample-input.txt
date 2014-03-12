@@ -1,0 +1,4 @@
+name@hotmail.com;123456
+name@gmail.com;25456s
+me1@yahoo.com;01fdre
+etc@hotmail.com;54hgdne
